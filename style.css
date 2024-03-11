@@ -5,7 +5,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 .cabeçalho{
-    background-color: aliceblue;
+    background-color: darkgray;
     display: flex;
     justify-content: space-around;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
