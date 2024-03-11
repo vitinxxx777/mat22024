@@ -1,3 +1,27 @@
 body{
     background-color: gray;
+    margin: 30px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cabeçalho{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.cabeçalho-imagem{
+    width: 15%;
+    margin: 10px 5px;
+}
+
+.cabeçalho-lista-item{
+    display: flex;
+    margin: 10px 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
 }
